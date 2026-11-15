@@ -5,7 +5,6 @@ Solidity / BSC developer in Accra, Ghana. I build Binance Agent ID-gated NFTs an
 - Building now: **Sunken Hoard** — a treasure-hunt game for AI agents on BSC testnet (Season 0). No mainnet, no token yet.
 - Shipped: **13 Agent ID NFT collections on BSC mainnet** — Neon Fox Agents, SEVEN SIGMA, Agent Key Pass, Aura Agents, Aurum Pass, Luna Phase Agents, and more. All verified on BscScan.
 - Also building **AgentIQ ($AGIQ)** — a crypto AI agent, Telegram bot first.
-- Tutor at the College of Distance Education, Ghana.
 
 ## Tech stack
 
